@@ -1,1 +1,1 @@
-web: gunicorn app:STOCK_PREDICTION
+web: gunicorn app.py:STOCK_PREDICTOR
